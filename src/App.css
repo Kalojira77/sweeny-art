@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+}
+nav {
+  background-color: #333;
+  color: white;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  margin-right: 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+.galerie img {
+  width: 100px;
+  margin: 10px;
+}
+
